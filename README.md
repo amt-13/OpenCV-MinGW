@@ -103,4 +103,4 @@ General configuration for OpenCV 4.5.5 =====================================
     	Java wrappers:        NO
    	 Java tests:               NO
 
-  - Install to:                    C:/Application/opencv/install
+- Install to:                    C:/Application/opencv/install
